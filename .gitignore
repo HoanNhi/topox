@@ -16,7 +16,6 @@ coverage.xml
 **/__pycache__/**
 __pycache__/
 docs/build/
-data/
 venv_*/
 
 TopoNetX/
